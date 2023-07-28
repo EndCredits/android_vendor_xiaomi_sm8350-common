@@ -4,6 +4,6 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifneq ($(filter haydn lisa odin renoir venus,$(TARGET_DEVICE)),)
+ifneq ($(filter haydn lisa mars odin renoir star venus,$(TARGET_DEVICE)),)
 
 endif
